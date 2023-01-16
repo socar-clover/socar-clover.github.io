@@ -144,3 +144,7 @@ alti:
   links:
     blog: 'https://blog.naver.com/mkmmk_aug'
     linkedin: 'https://www.linkedin.com/in/%EB%AF%BC%EA%B7%9C-%EC%A0%95-3287511aa/'
+
+clover:
+  name: 클로버
+  image: '/assets/authors/default.png'
